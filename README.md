@@ -1,17 +1,13 @@
-## If you wanna support me, all i ask for is that you try out my recent project.
-- [https://discord.bots.gg/bots/713054765025722440](https://discord.bots.gg/bots/713054765025722440)
 
-# Dark Discord
-An actual dark mode for discord.
+# Dark Discord (fixed)
+An actual dark mode for discord. Fixed because original theme's source file was missing (probably because the creator changed his name).
 
 # Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3270)
-- [Powercord](https://github.com/zzzmario/dark-discord/blob/master/Dark%20Discord.zip?raw=true)
+Get betterdiscord. I use BandagedBD for my stuff: if you need it, should be the top result on google.
+
 
 # Preview
 <img src="https://i.imgur.com/ehSSS0U.png"/>
 
-# Support 
-- [Support Server](https://discord.gg/pCc7q4Z)
-- hellbound#9999
+
 
